@@ -1,2 +1,5 @@
-# Enron-Dataset-Exploration-with-Predictive-model-Random-Forest-
-Enron Corporation was an American energy, commodities, and services company based in Houston, Texas. Before its bankruptcy on December 2, 2001, Enron employed approximately 20,000 staff and was one of the world's major electricity, natural gas, communications and pulp and paper companies, with claimed revenues of nearly $101 billion during 2000. Fortune named Enron "America's Most Innovative Company" for six consecutive years. At the end of 2001, it was revealed that its reported financial condition was sustained by institutionalized, systematic, and creatively planned accounting fraud, known since as the Enron scandal. In the resulting Federal investigation, there was a significant amount of typically confidential information entered into public record, including tens of thousands of emails and detailed financial data for top executives. The objective of this project is to come up with a predictive model for identifying employees who have committed fraud ("Person of Interest" or POI). I will explore the Enron email and financial dataset and test different classifiers to find the most accurate one in terms of identifying POI label.
+# Enron Dataset Exploration with Predictive model (Random Forest)
+
+For more detail see **P5.ipynb**.
+
+In addition you can find the code in **P5.py**
