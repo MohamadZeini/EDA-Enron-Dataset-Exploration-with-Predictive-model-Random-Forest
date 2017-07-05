@@ -1,4 +1,4 @@
-# Enron Dataset Exploration with Predictive model (Random Forest)
+# EDA_Enron Dataset Exploration with Predictive model (Random Forest)
 
 For more detail see **P5.ipynb**.
 
